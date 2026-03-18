@@ -1,6 +1,5 @@
 name=input("Enter name:")
 char=input("Enter any charcter:")
-
 length=len(name.replace(" ",""))
 
 print("length (Excluding space):",length)
